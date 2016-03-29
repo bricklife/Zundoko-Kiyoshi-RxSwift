@@ -4,7 +4,8 @@
         <page name='1'/>
         <page name='2'/>
         <page name='3'/>
-        <page name='Final'/>
         <page name='4'/>
+        <page name='Final'/>
+        <page name='5'/>
     </pages>
 </playground>
